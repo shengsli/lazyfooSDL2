@@ -1,0 +1,3 @@
+#+title: lazyfoo SDL2 tutorials
+#+author: 
+#+date: <2019-08-15 Thu 08:52>
